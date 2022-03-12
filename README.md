@@ -1,4 +1,5 @@
 # Russian keyboard layout for Mac OS with a country-neutral icon
+![alt text](https://github.com/olextech/ukru/blob/main/assets/taskbar.png?raw=true)
 
 Russia uses the russian language as a weapon to justify war and killing of innocent people. There is no such thing as Russian World! The russian language is not the property of Russia and should not be associated with it. Russia — is an aggressor and a threat to the entire civilized world. Glory to Ukraine! 🇺🇦
 
