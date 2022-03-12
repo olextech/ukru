@@ -5,8 +5,8 @@ Russia uses the russian language as a weapon to justify war and killing of innoc
 
 ## Installation
 
-1. Copy files uk-RU.keylayout and uk-RU.icns to a system folder /Library/Keyboard Layouts/
-2. Open System preferences > Keyboard > Input sources, press +, scroll to "Others" and pick source "Russian"
+1. Copy files `uk-RU.keylayout` and `uk-RU.icns` to a system folder `/Library/Keyboard Layouts/`
+2. Open `System preferences` > `Keyboard` > `Input sources`, press `+`, scroll to `Others` and pick source `Russian`
 3. Restart your Mac
 
 # Русская раскладка клавиатуры для Mac OS с нейтральной иконкой
@@ -15,7 +15,7 @@ Russia uses the russian language as a weapon to justify war and killing of innoc
 
 ## Установка
 
-1. Скопируйте файлы uk-RU.keylayout и uk-RU.icns в папку /Library/Keyboard Layouts/
-2. Откройте Системные настройки > Клавиатура > Источники ввода, нажмите +, проскрольте до "Другие" и выберите источник "Russian"
+1. Скопируйте файлы `uk-RU.keylayout` и `uk-RU.icns` в папку `/Library/Keyboard Layouts/`
+2. Откройте `Системные настройки` > `Клавиатура` > `Источники ввода`, нажмите `+`, проскрольте до `Другие` и выберите источник `Russian`
 3. Перезагрузите ваш Мак
 
